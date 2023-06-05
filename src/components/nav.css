@@ -1,0 +1,13 @@
+.nav-tabs {
+    background-color: white;
+  }
+  
+  .nav-link {
+    color: black;
+  }
+  
+  .nav-link.active {
+    color: black;
+    font-weight: bold;
+  }
+  
